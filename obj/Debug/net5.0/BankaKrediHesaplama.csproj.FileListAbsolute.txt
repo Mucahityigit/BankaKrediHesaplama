@@ -1,0 +1,16 @@
+C:\Users\merta\source\repos\Kodlama.io\BankaKrediHesaplama\bin\Debug\net5.0\BankaKrediHesaplama.exe
+C:\Users\merta\source\repos\Kodlama.io\BankaKrediHesaplama\bin\Debug\net5.0\BankaKrediHesaplama.deps.json
+C:\Users\merta\source\repos\Kodlama.io\BankaKrediHesaplama\bin\Debug\net5.0\BankaKrediHesaplama.runtimeconfig.json
+C:\Users\merta\source\repos\Kodlama.io\BankaKrediHesaplama\bin\Debug\net5.0\BankaKrediHesaplama.runtimeconfig.dev.json
+C:\Users\merta\source\repos\Kodlama.io\BankaKrediHesaplama\bin\Debug\net5.0\BankaKrediHesaplama.dll
+C:\Users\merta\source\repos\Kodlama.io\BankaKrediHesaplama\bin\Debug\net5.0\BankaKrediHesaplama.pdb
+C:\Users\merta\source\repos\Kodlama.io\BankaKrediHesaplama\obj\Debug\net5.0\BankaKrediHesaplama.csproj.AssemblyReference.cache
+C:\Users\merta\source\repos\Kodlama.io\BankaKrediHesaplama\obj\Debug\net5.0\BankaKrediHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merta\source\repos\Kodlama.io\BankaKrediHesaplama\obj\Debug\net5.0\BankaKrediHesaplama.AssemblyInfoInputs.cache
+C:\Users\merta\source\repos\Kodlama.io\BankaKrediHesaplama\obj\Debug\net5.0\BankaKrediHesaplama.AssemblyInfo.cs
+C:\Users\merta\source\repos\Kodlama.io\BankaKrediHesaplama\obj\Debug\net5.0\BankaKrediHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\merta\source\repos\Kodlama.io\BankaKrediHesaplama\obj\Debug\net5.0\BankaKrediHesaplama.dll
+C:\Users\merta\source\repos\Kodlama.io\BankaKrediHesaplama\obj\Debug\net5.0\refint\BankaKrediHesaplama.dll
+C:\Users\merta\source\repos\Kodlama.io\BankaKrediHesaplama\obj\Debug\net5.0\BankaKrediHesaplama.pdb
+C:\Users\merta\source\repos\Kodlama.io\BankaKrediHesaplama\obj\Debug\net5.0\BankaKrediHesaplama.genruntimeconfig.cache
+C:\Users\merta\source\repos\Kodlama.io\BankaKrediHesaplama\obj\Debug\net5.0\ref\BankaKrediHesaplama.dll
